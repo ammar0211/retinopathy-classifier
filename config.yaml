@@ -3,16 +3,14 @@ description: Classify fundus images using deep learning
 about:
 
 
+  Diabetic retinopathy (DR), also known as diabetic eye disease, is a medical condition in which damage occurs to the retina due to diabetes mellitus. It is a leading cause of blindness. Diabetic retinopathy affects up to 80 percent of those who have had diabetes for 20 years or more. Diabetic retinopathy often has no early warning signs. Retinal (fundus) photography with manual interpretation is a widely accepted screening tool for diabetic retinopathy, with performance that can exceed that of in-person dilated eye examinations.
+  
   This is a Diabetic Retinopathy Detector that detects Referrable Diabetic Retinopathy (RDR) using Deep Learning and was built with [fastai](docs.fast.ai)
-
-
-  This project was built by [Tanishq Abraham](https://github.com/tmabraham)
-
 
   The web application was based on the [Food Image Classifier by Nidhin Pattaniyil and Reshama Shaikh](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
 
 
-code: https://github.com/tmabraham/retinopathy-classifier
+code: hhttps://github.com/ammar0211/retinopathy-classifier
 
 sampleImages:
   - name: No Retinopathy
